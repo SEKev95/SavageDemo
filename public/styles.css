@@ -1,0 +1,10 @@
+body{
+  background: rgb(4, 15, 173);
+  color: white;
+}
+h3{
+  margin-top: 40px;
+}
+.gone{
+  display: none;
+}
